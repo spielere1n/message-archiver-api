@@ -1,0 +1,19 @@
+{
+  "name": "discord-message-archiver",
+  "version": "1.0.0",
+  "description": "Archives messages from discord ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "spielerein",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "discord.js": "^11.4.2",
+    "express": "^4.16.4",
+    "mongoose": "^4.13.18",
+    "pug": "^2.0.3"
+  }
+}
